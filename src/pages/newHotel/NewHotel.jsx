@@ -45,7 +45,7 @@ const NewHotel = () => {
           return url;
         })
       );
-
+        console.log("list ", list);
       const newhotel = {
         ...info,
         rooms,

@@ -80,7 +80,7 @@ export const hotelInputs = [
     placeholder: "Description",
   },
   {
-    id: "price",
+    id: "cheapestPrice",
     label: "Price",
     type: "text",
     placeholder: "100",
